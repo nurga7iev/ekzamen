@@ -1,0 +1,32 @@
+[
+  {
+    "manufacturer": "Toyota",
+    "model": "Corolla",
+    "year": 2020,
+    "price": 20000
+  },
+  {
+    "manufacturer": "Toyota",
+    "model": "Camry",
+    "year": 2021,
+    "price": 25000
+  },
+  {
+    "manufacturer": "BMW",
+    "model": "X5",
+    "year": 2019,
+    "price": 45000
+  },
+  {
+    "manufacturer": "BMW",
+    "model": "320i",
+    "year": 2021,
+    "price": 35000
+  },
+  {
+    "manufacturer": "Audi",
+    "model": "A3",
+    "year": 2020,
+    "price": 30000
+  }
+]

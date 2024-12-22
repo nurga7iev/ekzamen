@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ekzamen2</string>
+    <string-array name="car_brands">
+        <item>Toyota</item>
+        <item>Ford</item>
+        <item>BMW</item>
+        <item>Audi</item>
+        <item>Mercedes</item>
+        <item>Honda</item>
+        <item>Chevrolet</item>
+    </string-array>
+</resources>
